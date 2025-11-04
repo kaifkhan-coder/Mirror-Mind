@@ -1,0 +1,5 @@
+{
+  "name": "MirrorMind",
+  "description": "A web application that takes your thoughts and visualizes them as beautiful, abstract art using the Gemini API.",
+  "requestFramePermissions": []
+}
